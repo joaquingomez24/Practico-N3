@@ -35,16 +35,16 @@ transition: transform 1s;
     justify-content: center;
     align-items: center;
     font-size: 24px;
-    border: 1px solid rgb(178, 212, 143);
+    border: 1px solid rgb(248, 101, 3);
     border-radius: 10px;
 }
 
 .card__face--front {
-    background-color: rgb(176, 7, 7);
+    background-color: rgb(203, 0, 0);
 }
 
 .card__face--back {
-    background-color: rgb(230, 69, 10);
+    background-color: rgb(247, 245, 244);
     transform: rotateY(180deg);
     color: black;
 }
